@@ -1,0 +1,37 @@
+# Archivos generados por Python
+*.pyc
+__pycache__
+
+# Entornos virtuales (por ejemplo, creados con virtualenv o pipenv)
+venv/
+env/
+venv
+
+# Dependencias instaladas
+lib/
+libs/
+bin/
+include/
+share/
+*.egg-info/
+.installed.cfg
+
+# Archivos de registro y salida
+*.log
+*.swp
+*.swo
+
+# Archivos de configuración específicos del entorno local
+.env
+.env.*
+
+# Archivos y directorios generados por IDEs
+.idea/
+.vscode/
+*.pydevproject
+*.project
+*.pyc
+
+# Otros archivos generados
+.DS_Store
+Thumbs.db
