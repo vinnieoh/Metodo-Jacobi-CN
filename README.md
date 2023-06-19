@@ -1,3 +1,3 @@
-# Metodo-Jacobi-CN
+# MetodoJacobi: Trabalho Cálculo Numérico
 
-<h1>Trabalho Cálculo Numérico</h1>
+Link: https://colab.research.google.com/drive/1dx3KX9tFv92mRTJ7FnNc1hWwrd0bPhHF?usp=sharing
